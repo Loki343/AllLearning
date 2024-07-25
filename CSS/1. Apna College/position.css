@@ -1,0 +1,36 @@
+div {
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+}
+
+.box1 {
+    background-color: green;
+}
+
+.box2 {
+    background-color: blueviolet;
+    position: relative;
+    top: 15px;
+    left: 50px;
+}
+
+.box3 {
+    background-color: firebrick;
+    position: absolute;
+    top: 10px;
+}
+
+.box4 {
+    background-color: darkorange;
+    position: fixed;
+    right: 20px;
+    bottom: 10px;
+}
+
+.box5 {
+    background-color: darkseagreen;
+    position: sticky;
+    top: 0px;
+}

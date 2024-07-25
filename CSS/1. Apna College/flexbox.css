@@ -1,0 +1,37 @@
+body {
+    text-align: center;
+}
+
+div {
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    border: 2px solid black;
+}
+
+.container {
+    height: 200px;
+    width: 800px;
+    display: flex;
+    flex-direction: column;
+}
+
+.box1{
+    background-color: greenyellow;
+}
+
+.box2{
+    background-color: green;
+}
+
+.box3{
+    background-color: blueviolet;
+}
+
+.box4{
+    background-color: chocolate;
+}
+
+.box5{
+    background-color: darkslateblue;
+}

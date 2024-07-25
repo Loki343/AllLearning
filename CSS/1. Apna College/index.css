@@ -1,0 +1,23 @@
+h1 {
+   width: 100%;
+   text-align: center;
+}
+
+div {
+   height: 100px;
+   width: 100px;
+   margin-top: 20px;
+   border-radius: 50%;
+}
+
+.red{
+   background-color: red;
+}
+
+.green{
+   background-color: green;
+}
+
+.yellow{
+   background-color: yellow;
+}
